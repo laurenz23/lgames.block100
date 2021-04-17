@@ -3,6 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+/// <summary>
+/// handles the game settings
+/// </summary>
+
 namespace game_ideas
 {
     public enum GameDifficulty
