@@ -1,6 +1,6 @@
 # Block100
 
-Changes BLOCK100.v1.0.5:
+Changes BLOCK100.v1.0.5 April 17 2021:
 - Change the target Android API to API 30
 - Change the Unity version from 2019.3.13 to 2021.1.3f1
 - Update Project Settings:
@@ -12,5 +12,5 @@ Changes BLOCK100.v1.0.5:
 	- Physics 2D:
 		- Layer Collision Matrix uncheck everything except to default
 
-Changes Block100.v1.0.4:
+Changes Block100.v1.0.4 March 31 2021:
 - Update Google Play Keystore Signing Key
